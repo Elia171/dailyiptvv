@@ -649,14 +649,6 @@ http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4788.ts
 #EXTINF:-1,IT:TV 8
 http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4825.ts
 
-#EXTINF:-1,Rai 1 Full HD
-http://lucky.lts1.net:23000/live/ninoultra/R4wMXLMmls/2399.ts
-#EXTINF:-1,Rai 1 HD
-http://lucky.lts1.net:23000/live/ninoultra/R4wMXLMmls/26739.ts
-#EXTINF:-1,Rai 1 SD
-http://lucky.lts1.net:23000/live/ninoultra/R4wMXLMmls/22450.ts
-#EXTINF:-1,Rai 1 HD +1
-http://lucky.lts1.net:23000/live/ninoultra/R4wMXLMmls/24220.ts
 #EXTINF:-1,Rai 2 Full HD
 http://lucky.lts1.net:23000/live/ninoultra/R4wMXLMmls/22929.ts
 #EXTINF:-1,Rai 2 HD
@@ -1643,3 +1635,5 @@ http://lucky.lts1.net:23000/live/ninoultra/R4wMXLMmls/26730.ts
 http://lucky.lts1.net:23000/live/ninoultra/R4wMXLMmls/28484.ts
 #EXTINF:-1,POP Italy
 http://lucky.lts1.net:23000/live/ninoultra/R4wMXLMmls/32421.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19064.ts
